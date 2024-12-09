@@ -1,4 +1,4 @@
-# Comparative Study: Debiasing Techniques for Sentiment Analysis on GloVe Embeddings (Jainam Kirtikumar Gala, Hung Ngy)
+# Comparative Study: Debiasing Techniques for Sentiment Analysis on GloVe Embeddings (Final project for the course CS:6120 - Natural Language Processing) (Team - Jainam Kirtikumar Gala, Hung Nguyen, Mirat Shah)
 
 This project aims to evaluate and compare gender and racial bias present in various word embeddings, specifically GloVe (Global Vectors for Word Representation) embeddings and ConceptNet Numberbatch. Word embeddings are a fundamental part of natural language processing (NLP) models, as they represent words as high-dimensional vectors in a continuous vector space. However, it has been shown that these embeddings can inadvertently encode various biases, including gender bias and racial bias, which can negatively impact the fairness and ethical use of NLP models.
 
